@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: rgb(32, 35, 41);
+}
+
+.bt-search:hover {
+    width: 300px;
+}
+
+.text1,
+.text2,
+.text3,
+.text4 {
+    margin-bottom: 8px;
+}
